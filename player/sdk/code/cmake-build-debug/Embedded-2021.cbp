@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Embedded-2021"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\source\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Embedded-2021">
+				<Option output="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/bin/Embedded-2021.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/../bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Embedded-2021"/>
+					<CompileFile command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Embedded-2021/fast">
+				<Option output="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/bin/Embedded-2021.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/../bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Embedded-2021/fast"/>
+					<CompileFile command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="source-objects">
+				<Option output="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/source-objects.dir/source-objects.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 source-objects"/>
+					<CompileFile command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="source-objects/fast">
+				<Option output="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/source-objects.dir/source-objects.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 source-objects/fast"/>
+					<CompileFile command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/bin/mingw32-make.exe -f &quot;C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/source-objects.dir/ACO.cpp.obj">
+			<Option target="Embedded-2021"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/source-objects.dir/RouteParser.cpp.obj">
+			<Option target="Embedded-2021"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/source-objects.dir/Solution.cpp.obj">
+			<Option target="Embedded-2021"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/source-objects.dir/data.cpp.obj">
+			<Option target="Embedded-2021"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/main.cpp">
+			<Option target="Embedded-2021"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/source/ACO.cpp">
+			<Option target="source-objects"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/source/RouteParser.cpp">
+			<Option target="source-objects"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/source/Solution.cpp">
+			<Option target="source-objects"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/source/data.cpp">
+			<Option target="source-objects"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/source/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\source\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

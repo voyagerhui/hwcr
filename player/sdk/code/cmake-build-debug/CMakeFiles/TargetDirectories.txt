@@ -1,0 +1,6 @@
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/CMakeFiles/Embedded-2021.dir
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/source-objects.dir
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/cmake-build-debug/source/CMakeFiles/edit_cache.dir

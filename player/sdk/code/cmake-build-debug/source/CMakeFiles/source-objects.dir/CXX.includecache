@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ACO.h
+data.h
+../include/data.h
+set
+-
+time.h
+-
+
+../include/Graph.h
+iostream
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+
+../include/data.h
+Graph.h
+../include/Graph.h
+set
+-
+vector
+-
+
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/source/ACO.cpp
+ACO.h
+C:/Users/PC/Desktop/2021-Huawei-Embedded-Competition-3.0/player/sdk/code/source/ACO.h
+cmath
+-
+assert.h
+-
+time.h
+-
+
